@@ -26,50 +26,8 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="92b5f493-0ded-4bfa-aa93-0185a6c366ef" name="Changes" comment=" Exercício calculadora">
+    <list default="true" id="92b5f493-0ded-4bfa-aa93-0185a6c366ef" name="Changes" comment=" Corrigir exercício calculadora">
       <change afterPath="$PROJECT_DIR$/Exercicios/VerificadorPalindromo/VerificadorPalindromo.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Calculadora/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/Exercicios/.idea/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Calculadora/.idea/Calculadora.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Exercicios/.idea/Calculadora.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Calculadora/.idea/editor.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Exercicios/.idea/editor.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Calculadora/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Exercicios/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Calculadora/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Exercicios/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Calculadora/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Exercicios/CMakeLists.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Calculadora/Calculadora.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Exercicios/Calculadora/Calculadora.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Calculadora/Calculadora.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Calculadora/cmake-build-debug/.cmake/api/v1/query/cache-v2" beforeDir="false" afterPath="$PROJECT_DIR$/Exercicios/cmake-build-debug/.cmake/api/v1/query/cache-v2" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Calculadora/cmake-build-debug/.cmake/api/v1/query/cmakeFiles-v1" beforeDir="false" afterPath="$PROJECT_DIR$/Exercicios/cmake-build-debug/.cmake/api/v1/query/cmakeFiles-v1" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Calculadora/cmake-build-debug/.cmake/api/v1/query/codemodel-v2" beforeDir="false" afterPath="$PROJECT_DIR$/Exercicios/cmake-build-debug/.cmake/api/v1/query/codemodel-v2" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Calculadora/cmake-build-debug/.cmake/api/v1/query/toolchains-v1" beforeDir="false" afterPath="$PROJECT_DIR$/Exercicios/cmake-build-debug/.cmake/api/v1/query/toolchains-v1" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Calculadora/cmake-build-debug/.cmake/api/v1/reply/cache-v2-9c2907beb415e6bfa30a.json" beforeDir="false" afterPath="$PROJECT_DIR$/Exercicios/cmake-build-debug/.cmake/api/v1/reply/cache-v2-9c2907beb415e6bfa30a.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Calculadora/cmake-build-debug/.cmake/api/v1/reply/cmakeFiles-v1-41e1bbf9a86159645dc7.json" beforeDir="false" afterPath="$PROJECT_DIR$/Exercicios/cmake-build-debug/.cmake/api/v1/reply/cmakeFiles-v1-41e1bbf9a86159645dc7.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Calculadora/cmake-build-debug/.cmake/api/v1/reply/codemodel-v2-84073d09f1196af6985b.json" beforeDir="false" afterPath="$PROJECT_DIR$/Exercicios/cmake-build-debug/.cmake/api/v1/reply/codemodel-v2-84073d09f1196af6985b.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Calculadora/cmake-build-debug/.cmake/api/v1/reply/directory-.-Debug-d0094a50bb2071803777.json" beforeDir="false" afterPath="$PROJECT_DIR$/Exercicios/cmake-build-debug/.cmake/api/v1/reply/directory-.-Debug-d0094a50bb2071803777.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Calculadora/cmake-build-debug/.cmake/api/v1/reply/index-2025-06-12T12-19-50-0385.json" beforeDir="false" afterPath="$PROJECT_DIR$/Exercicios/cmake-build-debug/.cmake/api/v1/reply/index-2025-06-12T12-19-50-0385.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Calculadora/cmake-build-debug/.cmake/api/v1/reply/target-Calculadora-Debug-15a030a475e929a1460b.json" beforeDir="false" afterPath="$PROJECT_DIR$/Exercicios/cmake-build-debug/.cmake/api/v1/reply/target-Calculadora-Debug-15a030a475e929a1460b.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Calculadora/cmake-build-debug/.cmake/api/v1/reply/toolchains-v1-9ac4d22760674d1d5e76.json" beforeDir="false" afterPath="$PROJECT_DIR$/Exercicios/cmake-build-debug/.cmake/api/v1/reply/toolchains-v1-9ac4d22760674d1d5e76.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Calculadora/cmake-build-debug/CMakeCache.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Exercicios/cmake-build-debug/CMakeCache.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Calculadora/cmake-build-debug/CMakeFiles/3.31.6/CMakeCCompiler.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/Exercicios/cmake-build-debug/CMakeFiles/3.31.6/CMakeCCompiler.cmake" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Calculadora/cmake-build-debug/CMakeFiles/3.31.6/CMakeCXXCompiler.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/Exercicios/cmake-build-debug/CMakeFiles/3.31.6/CMakeCXXCompiler.cmake" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Calculadora/cmake-build-debug/CMakeFiles/3.31.6/CMakeDetermineCompilerABI_C.bin" beforeDir="false" afterPath="$PROJECT_DIR$/Exercicios/cmake-build-debug/CMakeFiles/3.31.6/CMakeDetermineCompilerABI_C.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Calculadora/cmake-build-debug/CMakeFiles/3.31.6/CMakeDetermineCompilerABI_CXX.bin" beforeDir="false" afterPath="$PROJECT_DIR$/Exercicios/cmake-build-debug/CMakeFiles/3.31.6/CMakeDetermineCompilerABI_CXX.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Calculadora/cmake-build-debug/CMakeFiles/3.31.6/CMakeRCCompiler.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/Exercicios/cmake-build-debug/CMakeFiles/3.31.6/CMakeRCCompiler.cmake" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Calculadora/cmake-build-debug/CMakeFiles/3.31.6/CMakeSystem.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/Exercicios/cmake-build-debug/CMakeFiles/3.31.6/CMakeSystem.cmake" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Calculadora/cmake-build-debug/CMakeFiles/3.31.6/CompilerIdC/CMakeCCompilerId.c" beforeDir="false" afterPath="$PROJECT_DIR$/Exercicios/cmake-build-debug/CMakeFiles/3.31.6/CompilerIdC/CMakeCCompilerId.c" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Calculadora/cmake-build-debug/CMakeFiles/3.31.6/CompilerIdC/a.exe" beforeDir="false" afterPath="$PROJECT_DIR$/Exercicios/cmake-build-debug/CMakeFiles/3.31.6/CompilerIdC/a.exe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Calculadora/cmake-build-debug/CMakeFiles/3.31.6/CompilerIdCXX/CMakeCXXCompilerId.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Exercicios/cmake-build-debug/CMakeFiles/3.31.6/CompilerIdCXX/CMakeCXXCompilerId.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Calculadora/cmake-build-debug/CMakeFiles/3.31.6/CompilerIdCXX/a.exe" beforeDir="false" afterPath="$PROJECT_DIR$/Exercicios/cmake-build-debug/CMakeFiles/3.31.6/CompilerIdCXX/a.exe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Calculadora/cmake-build-debug/CMakeFiles/CMakeConfigureLog.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Exercicios/cmake-build-debug/CMakeFiles/CMakeConfigureLog.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Calculadora/cmake-build-debug/CMakeFiles/TargetDirectories.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Exercicios/cmake-build-debug/CMakeFiles/TargetDirectories.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Calculadora/cmake-build-debug/CMakeFiles/clion-Debug-log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Exercicios/cmake-build-debug/CMakeFiles/clion-Debug-log.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Calculadora/cmake-build-debug/CMakeFiles/clion-environment.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Exercicios/cmake-build-debug/CMakeFiles/clion-environment.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Calculadora/cmake-build-debug/CMakeFiles/cmake.check_cache" beforeDir="false" afterPath="$PROJECT_DIR$/Exercicios/cmake-build-debug/CMakeFiles/cmake.check_cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Calculadora/cmake-build-debug/CMakeFiles/rules.ninja" beforeDir="false" afterPath="$PROJECT_DIR$/Exercicios/cmake-build-debug/CMakeFiles/rules.ninja" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Calculadora/cmake-build-debug/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/Exercicios/cmake-build-debug/Makefile" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Calculadora/cmake-build-debug/Testing/Temporary/LastTest.log" beforeDir="false" afterPath="$PROJECT_DIR$/Exercicios/cmake-build-debug/Testing/Temporary/LastTest.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Calculadora/cmake-build-debug/build.ninja" beforeDir="false" afterPath="$PROJECT_DIR$/Exercicios/cmake-build-debug/build.ninja" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Calculadora/cmake-build-debug/cmake_install.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/Exercicios/cmake-build-debug/cmake_install.cmake" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Calculadora/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Exercicios/main.cpp" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -139,15 +97,22 @@
       <recent name="C:\Users\joaov\Desktop\All\Projetos\Faculdade\Ricardo\Lista1\Exercicios\Calculadora" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="C/C++ File.VerificadorPalindromo.cpp">
     <configuration name="Calculadora.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Lista1" TARGET_NAME="Calculadora.cpp" CONFIG_NAME="Calculadora.cpp">
       <option name="sourceFile" value="Exercicios\Calculadora\Calculadora.cpp" />
       <method v="2">
         <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
+    <configuration name="VerificadorPalindromo.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Lista1" TARGET_NAME="VerificadorPalindromo.cpp" CONFIG_NAME="VerificadorPalindromo.cpp">
+      <option name="sourceFile" value="Exercicios\VerificadorPalindromo\VerificadorPalindromo.cpp" />
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="C/C++ File.VerificadorPalindromo.cpp" />
         <item itemvalue="C/C++ File.Calculadora.cpp" />
       </list>
     </recent_temporary>
@@ -162,7 +127,7 @@
       <workItem from="1749730831100" duration="4449000" />
       <workItem from="1749735701133" duration="783000" />
       <workItem from="1749736506518" duration="14000" />
-      <workItem from="1749736560589" duration="66000" />
+      <workItem from="1749736560589" duration="588000" />
     </task>
     <task id="LOCAL-00001" summary=" Exercício calculadora">
       <option name="closed" value="true" />
@@ -180,7 +145,15 @@
       <option name="project" value="LOCAL" />
       <updated>1749735795171</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary=" Corrigir exercício calculadora">
+      <option name="closed" value="true" />
+      <created>1749736732879</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1749736732879</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -216,7 +189,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value=" Exercício calculadora" />
-    <option name="LAST_COMMIT_MESSAGE" value=" Exercício calculadora" />
+    <MESSAGE value=" Corrigir exercício calculadora" />
+    <option name="LAST_COMMIT_MESSAGE" value=" Corrigir exercício calculadora" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
