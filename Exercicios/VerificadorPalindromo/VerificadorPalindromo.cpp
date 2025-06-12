@@ -2,6 +2,7 @@
 #include <string>
 #include <algorithm>
 #include <cctype>
+#include <windows.h>
 
 using namespace std;
 
@@ -29,6 +30,7 @@ private:
 };
 
 int main() {
+    SetConsoleOutputCP(CP_UTF8);
     VerificadorPalindromo verificador;
 
     string entrada;
