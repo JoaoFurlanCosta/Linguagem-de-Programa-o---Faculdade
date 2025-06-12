@@ -1,0 +1,3 @@
+C:/Users/joaov/Desktop/All/Projetos/Faculdade/Ricardo/Lista1/Calculadora/cmake-build-debug/CMakeFiles/Calculadora.dir
+C:/Users/joaov/Desktop/All/Projetos/Faculdade/Ricardo/Lista1/Calculadora/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/joaov/Desktop/All/Projetos/Faculdade/Ricardo/Lista1/Calculadora/cmake-build-debug/CMakeFiles/rebuild_cache.dir
