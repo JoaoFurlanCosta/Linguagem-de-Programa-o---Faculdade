@@ -123,7 +123,7 @@ depend:
 .PHONY : depend
 
 #=============================================================================
-# Target rules for targets named Calculadora
+# Target rules for targets named Exercicios
 
 # Build rule for target.
 Calculadora: cmake_check_build_system

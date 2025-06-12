@@ -1,4 +1,4 @@
-# Install script for directory: C:/Users/joaov/Desktop/All/Projetos/Faculdade/Ricardo/Lista1/Calculadora
+# Install script for directory: C:/Users/joaov/Desktop/All/Projetos/Faculdade/Ricardo/Lista1/Exercicios
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)

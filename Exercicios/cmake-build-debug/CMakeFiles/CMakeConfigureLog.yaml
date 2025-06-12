@@ -61,8 +61,8 @@ events:
     checks:
       - "Detecting C compiler ABI info"
     directories:
-      source: "C:/Users/joaov/Desktop/All/Projetos/Faculdade/Ricardo/Lista1/Calculadora/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-2cu0o8"
-      binary: "C:/Users/joaov/Desktop/All/Projetos/Faculdade/Ricardo/Lista1/Calculadora/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-2cu0o8"
+      source: "C:/Users/joaov/Desktop/All/Projetos/Faculdade/Ricardo/Lista1/Exercicios/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-2cu0o8"
+      binary: "C:/Users/joaov/Desktop/All/Projetos/Faculdade/Ricardo/Lista1/Exercicios/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-2cu0o8"
     cmakeVariables:
       CMAKE_C_FLAGS: ""
       CMAKE_C_FLAGS_DEBUG: "-g"
@@ -251,8 +251,8 @@ events:
     checks:
       - "Detecting CXX compiler ABI info"
     directories:
-      source: "C:/Users/joaov/Desktop/All/Projetos/Faculdade/Ricardo/Lista1/Calculadora/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-uvebvh"
-      binary: "C:/Users/joaov/Desktop/All/Projetos/Faculdade/Ricardo/Lista1/Calculadora/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-uvebvh"
+      source: "C:/Users/joaov/Desktop/All/Projetos/Faculdade/Ricardo/Lista1/Exercicios/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-uvebvh"
+      binary: "C:/Users/joaov/Desktop/All/Projetos/Faculdade/Ricardo/Lista1/Exercicios/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-uvebvh"
     cmakeVariables:
       CMAKE_CXX_FLAGS: ""
       CMAKE_CXX_FLAGS_DEBUG: "-g"
